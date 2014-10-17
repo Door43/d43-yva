@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yva:home|Door43 (yva)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yva|d43-yva repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yva/archive/master.zip|d43-yva.zip]]
+
+**Recent Changes**
+{{changes>ns = yva}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yva|Ethnologue data]]
+
